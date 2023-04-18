@@ -1,0 +1,2 @@
+double myadd(double, double);
+
